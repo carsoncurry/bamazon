@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
     port: 3306,
     user: "root",
 // leave password empty after demoing and before pushing to GitHub!!
-    password: "Spidermensch08",
+    password: "",
     database: "monStore_db"
 });
 
