@@ -30,7 +30,7 @@ Technologies Used:
     - Inquirer (for user inputs)
     - CLI-Table (to generate the table on the UI)
 
-Screenshots showing each step taken in the command line process can be found in the appropriate folder. 
+Screenshots showing each step taken in the command line process can be found here: https://github.com/carsoncurry/bamazon/tree/master/images
 
 Further Steps: 
 
